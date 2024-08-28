@@ -1,0 +1,1 @@
+truncate table ptest with (partitions (2));

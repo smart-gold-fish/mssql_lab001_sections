@@ -1,0 +1,1 @@
+create table ptest (id int identity(1,1), dt datetime, dummy_int int, dummy_char char(6000)) on psTest(dt);

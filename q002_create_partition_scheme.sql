@@ -1,0 +1,1 @@
+create partition scheme psTest as partition pfTest all to ([primary])
